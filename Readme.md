@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This machine learning project develops an advanced system for recognizing food items from images and estimating their calorie content. By leveraging cutting-edge image classification techniques and nutrition APIs, users can easily track their dietary intake and make informed food choices.
+This project uses Convolution Neural Network for recognizing food items from images and estimating their calorie content. By leveraging cutting-edge image classification techniques and nutrition APIs, users can easily track their dietary intake and make informed food choices.
 
 ## Features
 
@@ -49,8 +49,8 @@ This machine learning project develops an advanced system for recognizing food i
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/hk151109/PRODIGY_ML_05.git
-cd PRODIGY_ML_05
+git clone https://github.com/hk151109/Food-Item-Recognition-and-Calorie-Estimation-Using-CNN.git
+cd Food-Item-Recognition-and-Calorie-Estimation-Using-CNN
 ```
 
 ### 2. Create Virtual Environment (Optional but Recommended)
