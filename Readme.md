@@ -1,4 +1,4 @@
-# Food Item Recognition and Calorie Estimation Model
+# Food Item Recognition and Calorie Estimation Using CNN
 
 ## Project Overview
 
